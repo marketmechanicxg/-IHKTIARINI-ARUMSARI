@@ -1,6 +1,6 @@
 /**
  * ╔══════════════════════════════════════════════════════════════╗
- * ║           OCEAN BIRTHDAY — SEMUA PENGATURAN DI SINI         ║
+ * ║        OCEAN ANNIVERSARY — SEMUA PENGATURAN DI SINI          ║
  * ║  Kamu HANYA perlu edit file ini. Tidak perlu buka file lain. ║
  * ╚══════════════════════════════════════════════════════════════╝
  *
@@ -103,17 +103,17 @@ const MEMORIES = [
 ];
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   7. UCAPAN ULANG TAHUN
+   7. UCAPAN PERAYAAN AWAL CHATTAN (23 FEBRUARI 2026)
    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
    icon: wave | shell | star | compass | anchor | heart
    text: isi ucapannya                                            */
 const WISHES = [
-  { icon: "wave",    text: "May this year bring you the calmness of the ocean and the depth of your kindness." },
-  { icon: "shell",   text: "Hope your days are as bright as the sun on the water, and your nights as peaceful as the receding tide." },
-  { icon: "star",    text: "May every little wish of yours arrive right when you need it the most." },
-  { icon: "compass", text: "Wherever this year takes you, I hope you always find your way back to the people who adore you." },
-  { icon: "anchor",  text: "Stay grounded, stay grateful, and honestly, just stay as beautiful as you are right now." },
-  { icon: "heart",   text: "Happy birthday — cheers to another year of memories totally worth keeping." },
+  { icon: "wave",    text: "May this year since our first chat be as calm as the ocean and as deep as your kindness." },
+  { icon: "shell",   text: "Hope every day since 23rd February shines as bright as the sun on the water, and every night as peaceful as the tide." },
+  { icon: "star",    text: "May every little wish from that very first chat finally find its way to you." },
+  { icon: "compass", text: "Wherever this year takes us, I hope we always find our way back to that one chat on 23 February 2026." },
+  { icon: "anchor",  text: "Stay grounded, stay grateful, and honestly, just stay as wonderful as you were since the day we first said hi." },
+  { icon: "heart",   text: "Happy anniversary of our first chat — cheers to another year of memories totally worth keeping." },
 ];
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
